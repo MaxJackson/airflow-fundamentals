@@ -1,0 +1,6 @@
+apache-airflow==2.8.*
+apache-airflow-providers-http
+apache-airflow-providers-slack
+apache-airflow-providers-postgres
+pytest
+ruff
